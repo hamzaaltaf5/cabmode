@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072664799699",
+    "project_id": "cabmode-edc90",
+    "storage_bucket": "cabmode-edc90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072664799699:android:dbb8d1d2a14e512537a726",
+        "android_client_info": {
+          "package_name": "com.example.cabmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072664799699-c3jjmt0phpucvvfr14nd3610tr01tgno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxm0EzwYEavj7vhfy6ouJB4dlO1iIIcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072664799699-c3jjmt0phpucvvfr14nd3610tr01tgno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
